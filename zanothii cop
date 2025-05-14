@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>ZANOTHII COPARATE</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #0d1117;
+      color: #ffffff;
+    }
+
+    header {
+      background-color: #1f2937;
+      color: #60a5fa;
+      text-align: center;
+      padding: 40px 20px;
+    }
+
+    nav {
+      background-color: #111827;
+      text-align: center;
+      padding: 15px 0;
+    }
+
+    nav a {
+      color: #93c5fd;
+      margin: 0 20px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    nav a:hover {
+      color: #ffffff;
+    }
+
+    section {
+      padding: 40px 20px;
+      max-width: 900px;
+      margin: auto;
+    }
+
+    h2 {
+      color: #60a5fa;
+    }
+
+    ul {
+      list-style-type: square;
+      padding-left: 20px;
+    }
+
+    footer {
+      background-color: #1f2937;
+      text-align: center;
+      padding: 20px;
+      color: #9ca3af;
+    }
+
+    img.hero {
+      display: block;
+      max-width: 300px;
+      width: 100%;
+      margin: 20px auto;
+      border-radius: 15px;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.6);
+    }
+
+    a {
+      color: #60a5fa;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>ZANOTHII COPARATE</h1>
+    <p><em>"Delivering Speed, Safety & Satisfaction"</em></p>
+  </header>
+
+  <nav>
+    <a href="#home">Home</a>
+    <a href="#services">Services</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <section id="home">
+    <h2>About Us</h2>
+    <img src="file-YAtyHbmreubuLGWNCVycnk" alt="Baby Image" class="hero" />
+    <p>ZANOTHII COPARATE is a trusted transportation, delivery, and supply chain company committed to ensuring timely and secure deliveries across the country. With a fleet of modern vehicles and a team of experienced drivers, we specialize in cargo transport, last-mile delivery, and supply chain management for businesses of all sizes.</p>
+  </section>
+
+  <section id="services">
+    <h2>Our Services</h2>
+    <ul>
+      <li><strong>Cargo Transport:</strong> Safe and efficient transportation of goods nationwide.</li>
+      <li><strong>Same-Day Delivery:</strong> Fast and reliable door-to-door delivery.</li>
+      <li><strong>Supply Chain Management:</strong> Custom solutions for businesses to manage inventory and distribution.</li>
+      <li><strong>Fleet Services:</strong> Contract-based fleet services for large-scale logistics needs.</li>
+    </ul>
+
+    <h2>Why Choose Us</h2>
+    <ul>
+      <li>24/7 Tracking & Support</li>
+      <li>Affordable Pricing</li>
+      <li>Professional Drivers & Staff</li>
+      <li>Nationwide Reach</li>
+      <li>Eco-Friendly Operations</li>
+    </ul>
+  </section>
+
+  <section id="contact">
+    <h2>Contact Us</h2>
+    <p><strong>Phone:</strong> 0679347282</p>
+    <p><strong>Email:</strong> zanothiicop23@gmail.com</p>
+    <p><strong>Location:</strong> Kwadabeka Sub 5</p>
+    <p><strong>Website:</strong> <a href="http://www.swifthaul.com" target="_blank">www.swifthaul.com</a></p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 ZANOTHII COPARATE. All rights reserved.</p>
+  </footer>
+
